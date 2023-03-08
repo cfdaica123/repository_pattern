@@ -57,5 +57,8 @@ namespace ReponsitoryExample.Model
         [Required]
         [StringLength(100)]
         public string Address { get; set; }
+
+        public string Email {get; set;}
+        public string Password {get; set;}
     }
 }

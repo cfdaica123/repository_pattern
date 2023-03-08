@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ibeos/ReponsitoryExample/ReponsitoryExample.csproj": {}
+    "/home/ibeos/repository_pattern/ReponsitoryExample/ReponsitoryExample.csproj": {}
   },
   "projects": {
-    "/home/ibeos/ReponsitoryExample/ReponsitoryExample.csproj": {
+    "/home/ibeos/repository_pattern/ReponsitoryExample/ReponsitoryExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ibeos/ReponsitoryExample/ReponsitoryExample.csproj",
+        "projectUniqueName": "/home/ibeos/repository_pattern/ReponsitoryExample/ReponsitoryExample.csproj",
         "projectName": "ReponsitoryExample",
-        "projectPath": "/home/ibeos/ReponsitoryExample/ReponsitoryExample.csproj",
+        "projectPath": "/home/ibeos/repository_pattern/ReponsitoryExample/ReponsitoryExample.csproj",
         "packagesPath": "/home/ibeos/.nuget/packages/",
-        "outputPath": "/home/ibeos/ReponsitoryExample/obj/",
+        "outputPath": "/home/ibeos/repository_pattern/ReponsitoryExample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ibeos/.nuget/NuGet/NuGet.Config"

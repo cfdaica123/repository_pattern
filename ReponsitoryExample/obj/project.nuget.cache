@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X6LOK+S2Yzo9HGDytlE2LFrW221u/0HwCeaEqVswmhijwdpbr7KAYQhzcFldSaILgRZ2cIlo5WWevVXwcyTq1g==",
+  "dgSpecHash": "eEuOoYSGTu6sIPN3Q1d7yqDaz3quwggCRqAOkK2Jhf7sctvjfd7jrA+NHxueJ1P0rqumJvTl57owFTMWhzy7Yg==",
   "success": true,
-  "projectFilePath": "/home/ibeos/ReponsitoryExample/ReponsitoryExample.csproj",
+  "projectFilePath": "/home/ibeos/repository_pattern/ReponsitoryExample/ReponsitoryExample.csproj",
   "expectedPackageFiles": [
     "/home/ibeos/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/ibeos/.nuget/packages/microsoft.data.sqlite.core/7.0.3/microsoft.data.sqlite.core.7.0.3.nupkg.sha512",

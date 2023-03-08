@@ -3,7 +3,7 @@ using ReponsitoryExample.Model;
 using ReponsitoryExample.Repository;
 
 
-var db = new AppDBContext();
+// var db = new AppDBContext();
 
 // Repository<Category> repositoryCategory = new Repository<Category>(db);
 
@@ -25,7 +25,7 @@ var db = new AppDBContext();
 
 // Console.WriteLine("Created: 4 Categories");
 
-Repository<Customer> repositoryCustomer = new Repository<Customer>(db);
+// Repository<Customer> repositoryCustomer = new Repository<Customer>(db);
 // await repositoryCustomer.Created(new Customer{
 //     FirstName = "a",
 //     LastName = "b",
@@ -38,8 +38,13 @@ Repository<Customer> repositoryCustomer = new Repository<Customer>(db);
 // });
 // Console.WriteLine("Created: 2 Categories");
 
-var lsCustomer = repositoryCustomer.GetFilter(e => e.FirstName == "a").ToList();
-foreach(var customer in lsCustomer)
-{
-    Console.WriteLine(customer.FirstName + " " + customer.LastName);
-}
+// var lsCustomer = repositoryCustomer.GetFilter(e => e.FirstName == "a").ToList();
+// foreach(var customer in lsCustomer)
+// {
+//     Console.WriteLine(customer.FirstName + " " + customer.LastName);
+// }
+
+// CustomerRepository repCustomer = new CustomerRepository(db);
+// repCustomer.Login("abc", "abc");
+
+Console.WriteLine("Created: 2 Categories");
